@@ -37,12 +37,11 @@
 
 Pre-final year **Computer Science** student at **SRM Institute of Science and Technology**, specializing in full-stack development and applied AI/ML. I build production-ready web applications and data-driven solutions, with a strong foundation in **Data Structures & Algorithms** and **System Design**.
 
-### 💼 Technical Strengths
-- **Full-Stack Development** — Proficient in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), building end-to-end web applications from architecture to deployment
-- **Programming Languages** — C++, JavaScript, Python, HTML/CSS
-- **Databases** — MongoDB, MySQL — experienced in schema design, query optimization, and DBMS fundamentals
-- **AI & Machine Learning** — Hands-on experience with TensorFlow, scikit-learn, NLP, and predictive modeling
-- **Currently Building Expertise In** — Advanced DSA, System Design, and Deep Learning
+### 💼 Skills
+- **Programming Languages:** Python, C, C++
+- **Technical Skills:** Database Management (MySQL, MongoDB), Responsive design, RESTful APIs
+- **Languages and Frameworks:** HTML, CSS, Tailwind CSS, React.js, Node.js, Express.js, JavaScript
+- **Tools and Technologies:** Git, GitHub, Visual Studio Code, Postman, Jupyter Notebook, Canva
 
 ### 🚀 What I Build
 - **Full-Stack Web Applications** — E-commerce platforms, booking systems, and interactive dashboards using the MERN stack
@@ -62,36 +61,34 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
 <!-- TECH STACK -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ **Skills**
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Programming Languages" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### 🗄️ Technical Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database Management" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Responsive_Design-2C3E50?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=json&logoColor=white" height="40" alt="RESTful APIs" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🌐 Languages and Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel&theme=dark" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,js&theme=dark" alt="Languages and Frameworks" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools and Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" alt="Tools" />
-</p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="48" alt="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="48" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" height="48" alt="Canva" />
 </p>
 
 </div>
