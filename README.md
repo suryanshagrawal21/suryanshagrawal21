@@ -35,19 +35,27 @@
 
 <br/>
 
-🎓 **Pre-Final Year Student** at **SRM Institute of Science & Technology**
+Pre-final year **Computer Science** student at **SRM Institute of Science and Technology**, specializing in full-stack development and applied AI/ML. I build production-ready web applications and data-driven solutions, with a strong foundation in **Data Structures & Algorithms** and **System Design**.
 
-💻 **Software Developer** & **MERN Stack Developer**
+### 💼 Technical Strengths
+- **Full-Stack Development** — Proficient in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), building end-to-end web applications from architecture to deployment
+- **Programming Languages** — C++, JavaScript, Python, HTML/CSS
+- **Databases** — MongoDB, MySQL — experienced in schema design, query optimization, and DBMS fundamentals
+- **AI & Machine Learning** — Hands-on experience with TensorFlow, scikit-learn, NLP, and predictive modeling
+- **Currently Building Expertise In** — Advanced DSA, System Design, and Deep Learning
 
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning** & **Data Analytics**
+### 🚀 What I Build
+- **Full-Stack Web Applications** — E-commerce platforms, booking systems, and interactive dashboards using the MERN stack
+- **AI/ML Solutions** — Prediction engines, intelligent screening systems, and data analytics pipelines
+- **Database-Driven Systems** — Online Movie Ticket Booking System integrating web development with robust DBMS architecture
 
-🌍 Based in **Madhya Pradesh, India**
+### ⚙️ How I Work
+- Write clean, maintainable code with a focus on scalability and performance
+- Approach problems methodically — breaking down complex requirements into modular, testable components
+- Continuously upskill through competitive programming, open-source contributions, and hands-on project development
 
-🔭 Currently working on **Full-Stack Web Apps** & **AI/ML Projects**
-
-📚 Currently learning **Advanced DSA**, **System Design** & **Deep Learning**
-
-⚡ In my free time, I love **exploring new tech stacks**, **contributing to open-source**, **building side projects**, and **solving competitive programming challenges**
+<br/>
+📍 **Madhya Pradesh, India**
 
 <br clear="both"/>
 
