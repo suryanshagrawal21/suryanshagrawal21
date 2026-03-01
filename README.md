@@ -26,32 +26,26 @@
 
 <br/>
 
-<!-- ABOUT ME -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240" />
 
 <br/>
 
-Pre-final year **Computer Science** student at **SRM Institute of Science and Technology**, specializing in full-stack development and applied AI/ML. I build production-ready web applications and data-driven solutions, with a strong foundation in **Data Structures & Algorithms** and **System Design**.
+Pre-final year **Computer Science** student at **SRM IST** focused on building scalable **Full-Stack (MERN)** and **AI/ML** applications.
+
+🎯 Currently focused on solving DSA problems and building real-world scalable applications.
+
+💻 Full-Stack Developer | MERN Stack  
+🧠 AI/ML & Data Analytics Enthusiast  
+⚙️ Strong foundation in **DSA & System Design**  
+🚀 Building production-ready projects combining web + AI
 
 ### 💼 Skills
-- **Programming Languages:** Python, C, C++
-- **Technical Skills:** Database Management (MySQL, MongoDB), Responsive design, RESTful APIs
-- **Languages and Frameworks:** HTML, CSS, Tailwind CSS, React.js, Node.js, Express.js, JavaScript
-- **Tools and Technologies:** Git, GitHub, Visual Studio Code, Postman, Jupyter Notebook, Canva
-
-### 🚀 What I Build
-- **Full-Stack Web Applications** — E-commerce platforms, booking systems, and interactive dashboards using the MERN stack
-- **AI/ML Solutions** — Prediction engines, intelligent screening systems, and data analytics pipelines
-- **Database-Driven Systems** — Online Movie Ticket Booking System integrating web development with robust DBMS architecture
-
-### ⚙️ How I Work
-- Write clean, maintainable code with a focus on scalability and performance
-- Approach problems methodically — breaking down complex requirements into modular, testable components
-- Continuously upskill through competitive programming, open-source contributions, and hands-on project development
+- **Languages:** C++, Python, JavaScript, C
+- **Frameworks:** React.js, Node.js, Express.js, Tailwind CSS, HTML, CSS
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Visual Studio Code, Postman, Jupyter Notebook, Canva
 
 <br/>
 📍 **Madhya Pradesh, India**
@@ -59,42 +53,43 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
 <br clear="both"/>
 
 <!-- TECH STACK -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ **Skills**
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,c&theme=dark" alt="Languages" />
 </p>
 
-### 🗄️ Technical Skills
+### 🧩 Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database Management" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Responsive_Design-2C3E50?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Responsive Design" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=json&logoColor=white" height="40" alt="RESTful APIs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,html,css&theme=dark" alt="Frameworks" />
 </p>
 
-### 🌐 Languages and Frameworks
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,js&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
 </p>
 
-### ⚙️ Tools and Technologies
+### ⚙️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="48" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" height="48" alt="Canva" />
 </p>
-
 </div>
 
+<!-- PROBLEM SOLVING -->
+
+## 🧩 **Problem Solving**
+- Solving **Data Structures & Algorithms** problems regularly.
+- Focused on Arrays, Strings, Sliding Window, and Dynamic Programming (DP).
+
+<br/>
+
 <!-- FEATURED PROJECTS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 **Featured Projects**
 
@@ -108,7 +103,7 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
           <img src="https://img.shields.io/badge/VIEW_CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">AI-powered IPL score prediction web app using <strong>Machine Learning</strong> & historical match data. Built with <strong>Streamlit + TensorFlow</strong>.</p>
+      <p align="center">AI-powered IPL score predictor utilizing <strong>Machine Learning</strong> models trained on historical match data to generate highly accurate real-time predictions.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -122,7 +117,7 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
           <img src="https://img.shields.io/badge/VIEW_CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Full-stack e-commerce website for kitchen utensils built with the complete <strong>MERN Stack</strong> — React, Node.js, Express & MongoDB.</p>
+      <p align="center">Engineered a scalable, full-stack <strong>MERN</strong> e-commerce platform featuring secure user authentication, shopping cart state management, and optimized database queries.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -138,7 +133,7 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
           <img src="https://img.shields.io/badge/VIEW_CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">AI-based resume screening & candidate ranking system using <strong>Machine Learning</strong> and <strong>NLP</strong> techniques.</p>
+      <p align="center">Developed an intelligent candidate ranking system leveraging <strong>NLP techniques</strong> to automate resume screening and improve hiring efficiency by matching key competencies.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=spacy&logoColor=white" />
@@ -152,7 +147,7 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
           <img src="https://img.shields.io/badge/VIEW_CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">A comprehensive movie booking application with <strong>seat selection</strong>, <strong>user authentication</strong>, and admin dashboard.</p>
+      <p align="center">Built a complete movie ticket booking solution integrating interactive front-end seat selection with robust, relational DBMS architecture for transaction integrity.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CustomTkinter-2496ED?style=flat-square&logo=python&logoColor=white" />
@@ -164,7 +159,6 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
 </div>
 
 <!-- GITHUB STATS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 **GitHub Analytics**
 
@@ -185,23 +179,10 @@ Pre-final year **Computer Science** student at **SRM Institute of Science and Te
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshagrawal21&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryanshagrawal21&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
-</div>
-
 <!-- SNAKE ANIMATION -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation" />
-</div>
-
-<!-- RANDOM DEV QUOTE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <!-- FOOTER -->
