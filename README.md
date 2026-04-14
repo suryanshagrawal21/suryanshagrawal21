@@ -113,7 +113,7 @@
 
 ## 🧩 Problem Solving
 
-- 🟢 300+ DSA Problems Solved *(update with real number)*
+- 🟢 100+ DSA Problems Solved 
 - 🔵 Focus: Arrays, DP, Sliding Window, Graphs
 
 ---
